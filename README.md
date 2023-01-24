@@ -10,5 +10,8 @@ It is also important to note that this script is for educational or testing purp
 To Install,
 git clone https://github.com/Mohammedthoufeeq/Wordpress-XMLRPC-DOS
 
+To Run,
+
 cd Wordpress-XMLRPC-DOS
+
 python wpdos.py
