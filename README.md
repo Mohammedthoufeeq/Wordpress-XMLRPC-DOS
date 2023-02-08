@@ -7,11 +7,17 @@ It is important to note that this script should be used for testing and demonstr
 
 It is also important to note that this script is for educational or testing purposes only. The script should never be used to perform any kind of illegal or unauthorized activities.
 
-To Install,
+## Important NOte
+if xmlrpc.php is forbidden its not vulnerabe.
+if it shows POST Requests Only its vulnerable.
+
+##To Install,
 git clone https://github.com/Mohammedthoufeeq/Wordpress-XMLRPC-DOS
 
-To Run,
+##To Run,
 
 cd Wordpress-XMLRPC-DOS
 
-python wpdos.py
+python wpdos.py -url <url/xmlrpc.php>
+
+
